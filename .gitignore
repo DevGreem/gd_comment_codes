@@ -16,3 +16,6 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 **/test/*
+
+# Local review cache (EGM/opencode), not versioned
+.ai/

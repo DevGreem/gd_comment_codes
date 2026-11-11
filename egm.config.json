@@ -1,0 +1,7 @@
+{
+	"project_name": "gd_comment_codes",
+	"storage": {
+		"documentation_path": "./docs",
+		"templates_path": "./.egm/templates"
+	}
+}
